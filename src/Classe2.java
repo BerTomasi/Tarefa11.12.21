@@ -10,6 +10,8 @@ public class Classe2 {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Classe 2");
+        
+        JOptionPane.showMessageDialog(null, "Alteração");
     }
     
 }
