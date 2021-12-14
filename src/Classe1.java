@@ -12,6 +12,7 @@ public class Classe1 {
         JOptionPane.showMessageDialog(null, "Classe 1");
         
         JOptionPane.showMessageDialog(null, "Alteração");
+        
     }
     
 }
